@@ -1,0 +1,147 @@
+/* 
+    Document   : style
+    Created on : 2013-01-04, 14:20:11
+    Author     : Usager
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#127093;
+	magin:0;
+	padding:0;
+	font:12px/14px Arial, Helvetica, sans-serif;
+	color:#127093;
+}
+
+#all
+{
+	margin-top: 250px;
+}
+#form
+{
+	background-repeat:no-repeat;
+	background-image: url("../design/form.png");
+	height:400px;
+	width: 400px;
+	margin:auto;
+	padding: 20px;
+}
+#form a{
+        text-decoration: none;
+        color:#127093;
+        font:13px Arial, Helvetica, sans-serif;
+        font-weight: bold;
+      
+}
+#pied{
+    padding-top: 10px;
+}
+#aMotDePasse{
+    width: 50px;
+    padding-left: 20px;
+}
+#entete
+{
+	font-size: 24px;
+	padding:8px;
+	padding-left:130px;
+}
+hr
+{	
+	color:#666666
+}
+#corps
+{
+	font-size:13px;
+	font-weight:bold;
+	padding-left:25px;
+	padding-right:25px;
+}
+.inputForm
+{
+	border-radius: 8px;
+	border-color:#cdcdcc;
+	background-color:#eeeeee;
+	font-size:16px;
+	height:24px;
+	padding-bottom:0;
+	padding-left:5px;
+	padding-top:5px;
+	width:335px;
+}
+#corps td
+{
+	padding-top: 10px;
+}
+#corp2{padding-left:30px;}
+#corps2 td
+{
+	padding-top: 20px;
+}
+#corps2 input{
+    width: 150px;
+}
+#corps2 label{
+    width: 100px;
+}
+
+#check {
+	width: 20px;	
+	margin: 20px auto;
+	position: relative;
+}
+
+#check label {
+	cursor: pointer;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	top: 0;
+	border-radius: 4px;
+
+	-webkit-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,.4);
+	-moz-box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,.4);
+	box-shadow: inset 0px 1px 1px rgba(0,0,0,0.5), 0px 1px 0px rgba(255,255,255,.4);
+
+	background: -webkit-linear-gradient(top, #222 0%, #45484d 100%);
+	background: -moz-linear-gradient(top, #222 0%, #45484d 100%);
+	background: -o-linear-gradient(top, #222 0%, #45484d 100%);
+	background: -ms-linear-gradient(top, #222 0%, #45484d 100%);
+	background: linear-gradient(top, #222 0%, #45484d 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222', endColorstr='#45484d',GradientType=0 );
+}
+
+#check label:after {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+	opacity: 0;
+	content: '';
+	position: absolute;
+	width: 9px;
+	height: 5px;
+	background: transparent;
+	top: 4px;
+	left: 4px;
+	border: 3px solid #fcfff4;
+	border-top: none;
+	border-right: none;
+
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+#ordreDujour{
+    alignment-adjust:middle;
+}
