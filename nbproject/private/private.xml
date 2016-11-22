@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/web/VoirInfoReunion.jsp</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/servlets/AjouterMiseAJour.java</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/web/index.jsp</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/controleur/controleurFrontal.java</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/web/remplirOrdreJour.jsp</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/modele/Operation.java</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/DAO/implement/PointDiscussionDAO.java</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/DAO/implement/MiseAJourDAO.java</file>
+            <file>file:/C:/Users/soixa/Desktop/dossiersEtReunions/ProjetCatalogueCFG/src/java/com/gcf/servlets/ConsulterInfoReunion.java</file>
+        </group>
+    </open-files>
+</project-private>
